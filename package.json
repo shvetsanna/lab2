@@ -1,0 +1,8 @@
+ {
+  "name": "lab2-utils",
+  "version": "1.0.0",
+  "description": "JavaScript utility library for Lab 2",
+  "author": "Anna Shvets",
+  "license": "MIT",
+  "main": "index.js"
+}
